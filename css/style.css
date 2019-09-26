@@ -441,6 +441,7 @@ header section p {
   letter-spacing: 5px;
   font-size: 2.5rem;
   padding: 1rem 0;
+  text-transform: uppercase;
 }
 
 #testimonials h1::before,
@@ -579,7 +580,7 @@ header section p {
 
 .contact-form img {
   grid-column: 2/3;
-  grid-row: 1/10;
+  grid-row: 1/9;
   width: 100%;
 }
 
