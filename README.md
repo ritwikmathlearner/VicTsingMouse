@@ -1,3 +1,3 @@
 # VicTsingMouse
 Landing page of VicTsing Mouse 
-https://stupefied-almeida-14527f.netlify.com/
+https://awesome-mirzakhani-441f4a.netlify.com/
