@@ -223,10 +223,15 @@
         margin-top: 2rem;
     }
 
-    #home img {
-        width: 100%;
-        margin: auto;
-    }
+    #home {
+        padding: 3rem 1rem;
+        grid-template-columns: 1fr;
+     }
+ 
+     #home img {
+         width: 50%;
+         margin: auto;
+     }
 
     .contact-form button {
         width: 50%;
